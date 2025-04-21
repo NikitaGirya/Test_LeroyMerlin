@@ -39,3 +39,6 @@
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/Test_LeroyMerlin/blob/main/Test_LeroyMerlin.ipynb)**
 
 ---
+
+
+---
