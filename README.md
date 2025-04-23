@@ -1,10 +1,3 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/Test_LeroyMerlin/blob/main/Test_LeroyMerlin.ipynb)**
-
----
-
 # Тестовое задание Leroy Merlin (февраль 2022)
 **на вакансию `Аналитик данных`**
 
@@ -37,5 +30,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/Test_LeroyMerlin/blob/main/Test_LeroyMerlin.ipynb)**
-
----
